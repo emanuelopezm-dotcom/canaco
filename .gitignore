@@ -1,0 +1,15 @@
+# Entorno virtual
+canaco_env/
+venv/
+env/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Base de datos local (si llegas a usar SQLite)
+*.sqlite3
+
+# Archivos del sistema o editor
+.vscode/
+.DS_Store
